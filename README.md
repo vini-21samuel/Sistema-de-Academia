@@ -1,5 +1,9 @@
 # Sistema de Academia
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/922371bd-4666-4326-aacc-739170660c38"/>
+</div>
+
 IDE: IntelliJ
 
 Este projeto é uma aplicação em Java com interface gráfica, desenvolvida para gerenciar os instrutores e alunos de uma academia, além de facilitar a administração dos treinos oferecidos.
